@@ -1,3 +1,5 @@
+alert("Press F12 and click 'Console' to see the result of JS");
+
 console.log("first");
 console.log("song");
 
